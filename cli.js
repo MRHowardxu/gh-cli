@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-console.log('gh-cli,working~~')  //测试
+console.log('xgh-cli,working~~')  //测试
 
 const path = require('path')
 const inquirer = require('inquirer')
